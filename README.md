@@ -1,4 +1,4 @@
-# Databases I & II- CpE UniWA Course 2024-2025/2025-2026
+# Databases I & II
 This repository includes both courses we did regarding Databases and SQL.
 
 ## Databases I 2024-2025
